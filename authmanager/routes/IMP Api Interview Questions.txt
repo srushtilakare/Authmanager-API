@@ -1,0 +1,4 @@
+HTTP is stateless or Api
+
+apis are stateless becuase server does not remember between two requests 
+tokens are not safe on the server side but it is send with the repsonse
